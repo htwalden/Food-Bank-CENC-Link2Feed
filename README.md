@@ -6,6 +6,11 @@ The app is an interactive dashboard that has in interactive map, tables, bar cha
 
 This porject used Jupyter notebooks, python, Dash, Plotly, pandas, geopandas, geoJSON, geopy, bootstrap, Folium, and others. 
 
+The purpose of the project was to present locations of Food Bank clients in relation to food pantries in the area of operations
+owned by the Food Bank of CENC. The data was represented geospatially, which enabled locating service area gaps. Once gaps are 
+identified, action can be taken to add services in areas where there formerly was none. This has real-world impact 
+which helps reduce food insecurity amongst vulnerable populaitons. 
+
 The final dashboard can be viewed here:
 http://fbcencl2f.herokuapp.com/
 
