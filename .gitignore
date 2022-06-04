@@ -1,0 +1,4 @@
+../../OneDrive/Documents/PycharmProjects/L2FDashAppHeroku/venv
+*.pyc
+.env
+.DS_Store
