@@ -12,6 +12,9 @@ identified, action can be taken to add services in areas where there formerly wa
 which helps reduce food insecurity amongst vulnerable populaitons. 
 
 There are 3 Jupyter Notebooks that I used to do all the data cleaning and wrangling. The first notebook establishes the final data sets of clients and food pantries. The second notebook generates the interactive map which plots clients and pantries. The third notebook aggregates data and generates pivot tables to be used in the dashboard's graph and choropleth pages.
+[Cleaning Notebook](https://github.com/htwalden/Food-Bank-CENC-Link2Feed/blob/main/JupyterNotebooks/1of3clientMappingFinal.ipynb)
+[Mapping Notebook](https://github.com/htwalden/Food-Bank-CENC-Link2Feed/blob/main/JupyterNotebooks/2of3clientMappingFinal.ipynb)
+[Aggregation Notebook](https://github.com/htwalden/Food-Bank-CENC-Link2Feed/blob/main/JupyterNotebooks/3of3clientMappingDatasetForTablesFinal.ipynb)
 
 These are the scripts for the final product of the Food Bank of CENC multi-page Dash app. 
 The app is an interactive dashboard that has in interactive map, tables, bar charts, and choropleth maps. 
